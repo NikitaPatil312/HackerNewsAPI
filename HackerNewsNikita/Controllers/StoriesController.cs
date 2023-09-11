@@ -66,7 +66,7 @@ namespace HackerNewsNikita.Controllers
 
                     }
                     
-                    return new JsonResult(stories.OrderBy(x=>x.score)); 
+                    return new JsonResult(stories.OrderByDescending(x=>x.score)); 
                 }
 
                  

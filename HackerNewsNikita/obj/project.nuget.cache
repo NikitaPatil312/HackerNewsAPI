@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V7g5lj+rcrUTxIH6xsNFllDIm9CQZH4IFbDe5aVrK3YbtpLy2hg7b614t065U6TZSujOHX1k8vQWlMVgamEuzw==",
+  "dgSpecHash": "Z3oZ7UI6gAm6B9UTyLnqR+vdG7RIrCEHfCR8JfN25O9vWmGk5p1VNEzd4y7dWeItTLIwqKypdJWH7b3V5cG2yw==",
   "success": true,
-  "projectFilePath": "/Users/nikitapatil/Projects/HackerNewsNikita/HackerNewsNikita/HackerNewsNikita.csproj",
+  "projectFilePath": "/Users/nikitapatil/Projects/HackerNewsAPI/HackerNewsNikita/HackerNewsNikita.csproj",
   "expectedPackageFiles": [
     "/Users/nikitapatil/.nuget/packages/microsoft.aspnetcore.openapi/7.0.0/microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "/Users/nikitapatil/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

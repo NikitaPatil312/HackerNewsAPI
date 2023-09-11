@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nikitapatil/Projects/HackerNewsNikita/HackerNewsNikita/HackerNewsNikita.csproj": {}
+    "/Users/nikitapatil/Projects/HackerNewsAPI/HackerNewsNikita/HackerNewsNikita.csproj": {}
   },
   "projects": {
-    "/Users/nikitapatil/Projects/HackerNewsNikita/HackerNewsNikita/HackerNewsNikita.csproj": {
+    "/Users/nikitapatil/Projects/HackerNewsAPI/HackerNewsNikita/HackerNewsNikita.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nikitapatil/Projects/HackerNewsNikita/HackerNewsNikita/HackerNewsNikita.csproj",
+        "projectUniqueName": "/Users/nikitapatil/Projects/HackerNewsAPI/HackerNewsNikita/HackerNewsNikita.csproj",
         "projectName": "HackerNewsNikita",
-        "projectPath": "/Users/nikitapatil/Projects/HackerNewsNikita/HackerNewsNikita/HackerNewsNikita.csproj",
+        "projectPath": "/Users/nikitapatil/Projects/HackerNewsAPI/HackerNewsNikita/HackerNewsNikita.csproj",
         "packagesPath": "/Users/nikitapatil/.nuget/packages/",
-        "outputPath": "/Users/nikitapatil/Projects/HackerNewsNikita/HackerNewsNikita/obj/",
+        "outputPath": "/Users/nikitapatil/Projects/HackerNewsAPI/HackerNewsNikita/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nikitapatil/.nuget/NuGet/NuGet.Config"
