@@ -10,3 +10,5 @@ n = Pass number of stories you want to fetch
 
 [Please note localhost:7197 is for https, you can find other urls in launchSettings.json file]
 
+P.S. I have assumed data coming from https://hacker-news.firebaseio.com/v0/beststories.json is sorted in descending order of score.
+
