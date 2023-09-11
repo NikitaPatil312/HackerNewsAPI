@@ -12,4 +12,4 @@ n = Pass number of stories you want to fetch
 
 P.S. I have assumed data coming from https://hacker-news.firebaseio.com/v0/beststories.json is sorted in descending order of score.
 
-https://github.com/NikitaPatil312/HackerNewsAPI/blob/main/Output/Screenshot 2023-09-11 at 2.04.45 PM.png
+(https://github.com/NikitaPatil312/HackerNewsAPI/blob/main/Output/Screenshot 2023-09-11 at 2.04.45 PM.png)
